@@ -1,4 +1,4 @@
-name: dvs2
+name: dvs
 channels:
   - defaults
 dependencies:
@@ -47,4 +47,4 @@ dependencies:
       - six==1.16.0
       - wrapt==1.15.0
       - zstd==1.5.4.0
-prefix: /home/lamberti/anaconda3/envs/dvs2
+prefix: /home/lamberti/anaconda3/envs/dvs
